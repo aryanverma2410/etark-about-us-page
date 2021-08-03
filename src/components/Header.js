@@ -45,7 +45,7 @@ const Header = () => {
 							<Grid item style={{ margin: '34px 20px 0' }}>
 								<Box fontWeight='fontWeightRegular' fontSize={15}>
 									<Link
-										href='/'
+										href='/how_to_use'
 										style={{ textDecoration: 'none', color: 'black' }}>
 										HOW TO USE
 									</Link>
